@@ -8,15 +8,15 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>. 1
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-Package icons are based on Leaf_Diagram_1.png ?by Guillaume Bokiau and 
+Package icons are based on Leaf_Diagram_1.png by Guillaume Bokiau and 
 are under the Creative Commons Attribution-Share Alike 3.0 Unported licence
 
 This is a PortableApps version of MongoDB 3.2.1 Windows 64-bit 2008 R2+
 
-Database files are saved in MongoDBPortable\Data\db directory by default laucher settings.
+Database files are saved in MongoDBPortable\Data\db directory by default launcher settings.
 
 In order to changes theses settings,
 edit MongoDBPortable\App\AppInfo\Launcher\MongoDBPortable.ini
