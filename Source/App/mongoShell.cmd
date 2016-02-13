@@ -7,12 +7,7 @@ set HOMEPATH=%3
 cd %1
 echo mongorc.js and .dbshell files are stored in
 echo %1
-IF EXIST %1 (
 echo .
-) ELSE (
-mkdir %1
-echo .
-)
 echo You can now run MongoDB binaries
 echo .
 cmd /k
