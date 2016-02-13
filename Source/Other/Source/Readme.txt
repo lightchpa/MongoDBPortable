@@ -1,5 +1,5 @@
 This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Affero Public License as published 
+it under the terms of the GNU General Affero Public License as published
 by the Free Software Foundation, version 3 of the License
 
 This program is distributed in the hope that it will be useful,
@@ -10,16 +10,20 @@ GNU General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+Licences :
 
-Package icons are based on Leaf_Diagram_1.png by Guillaume Bokiau and 
-are under the Creative Commons Attribution-Share Alike 3.0 Unported licence
+- MongoDB Database Server and Tools are under the Free Software Foundation's
+  GNU AGPL v3.0. 
 
-Package version : BETA 1 release 1
+- Package icons are based on :
+     . Leaf_Diagram_1.png by Guillaume under the Creative Commons
+       Attribution-Share Alike 3.0 Unported licence
 
-This is a PortableApps version of MongoDB 3.2.1 Windows 64-bit 2008 R2+
+     . Crystal_Clear_app_kscreensaver.png By Everaldo Coelho and YellowIcon
+       under GNU LESSER GENERAL PUBLIC LICENSE 2.1 or greater
 
-Database files are saved in MongoDBPortable\Data\db directory by default launcher settings.
+- Package icons are under the under the Creative Commons Attribution-Share
+  Alike 3.0 Unported licence
 
-In order to changes theses settings,
-edit MongoDBPortable\App\AppInfo\Launcher\MongoDBPortable.ini
-and change the value of the CommandLineArguments parameter in the Launch section.
+- PortableApps Launcher and PortableApps Installer are under
+  Free / Open Source (GPL) with exceptions for freeware and free open source
