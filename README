@@ -15,7 +15,7 @@ Usage :
 
 - Click on MongoDB Portable in order to launch MongoDB Database
   (Database files are stored in Data\db folder)
-- Click on MongoDB Command Prompt to launch others MongoDB binaries
+- Click on MongoDB Command Prompt in order to launch others MongoDB binaries
   (This will set Data\home as HOME folder for mongo.exe)
 
 Licences :
