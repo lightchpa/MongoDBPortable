@@ -28,8 +28,8 @@ along with this program.  If not, see [http://www.gnu.org/licenses/](http://www.
 * PortableApps Launcher and PortableApps Installer are under Free / Open Source (GPL) with exceptions for freeware and free open source
 
 
-##Usage
-1. Click on MongoDB Portable in order to launch MongoDB Database
+## Usage
+* **1** Click on MongoDB Portable in order to launch MongoDB Database
   (Database files are stored in `Data\db` folder)
-2. Click on MongoDB Command Prompt in order to launch others MongoDB binaries
+* **2** Click on MongoDB Command Prompt in order to launch others MongoDB binaries
   (This will set `Data\home` as HOME folder for mongo.exe)
