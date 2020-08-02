@@ -1,9 +1,7 @@
 @echo off
-title MongoDB Command Prompt
-if not exist "%HOME%\" mkdir "%HOME%"
 cls
-echo .mongorc.js and .dbshell files are stored in
-echo %HOME%
+echo .mongorc.js is stored in %HOME%
+echo .dbshell is located in %USERPROFILE%
 echo.
 echo You can now run MongoDB binaries
 echo.
